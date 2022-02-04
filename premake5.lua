@@ -1,6 +1,6 @@
-workspace "OpenGL-Template"
+workspace "EquationPlotter"
 	architecture "x64"
-	startproject "OpenGL-Template"
+	startproject "EquationPlotter"
 
 	configurations {
 		"Debug",
@@ -21,4 +21,4 @@ group "Dependencies"
 group ""
 
 include "OpenGL-Core"
-include "Example"
+include "EquationPlotter"

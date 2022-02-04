@@ -1,4 +1,4 @@
-project "Example"
+project "EquationPlotter"
 	kind "ConsoleApp"
 	language "C++"
 	cppdialect "C++17"
